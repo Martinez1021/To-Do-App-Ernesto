@@ -1,4 +1,4 @@
-# ✨ To-Do App Ernesto
+# ✨ To-Do App Ernesto 🚀
 
 Aplicación moderna de gestión de tareas construida con **React**, **Vite** y **Supabase**. Incluye funcionalidades avanzadas como prioridades, filtros, búsqueda, modo oscuro, estadísticas y más.
 
@@ -19,6 +19,9 @@ Aplicación moderna de gestión de tareas construida con **React**, **Vite** y *
 ## 📸 Capturas de Pantalla
 
 <img width="1879" height="960" alt="image" src="https://github.com/user-attachments/assets/05e36348-477d-4c7c-8285-5b4f038589b9" />
+
+<img width="1878" height="615" alt="image" src="https://github.com/user-attachments/assets/6568f366-515a-4f4f-b22c-0da81fcae060" />
+
 
 
 ## 🛠️ Tecnologías
